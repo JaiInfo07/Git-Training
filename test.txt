@@ -1,5 +1,8 @@
 Created this Text file in main branch!
 
 Added this sentence for main branch commit
+<<<<<<< HEAD
 
 Checking whether it's showing merge conflict!
+=======
+>>>>>>> main
