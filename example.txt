@@ -1,1 +1,2 @@
 This is second file for log checking purpose!
+To check the Git Fetch command!
